@@ -1,4 +1,4 @@
-DATA : "https://drive.google.com/file/d/1rbUffAgCrT_JqwrDk4ofR-i7Y4ihu5Fa/view?usp=sharing"
+DATA : "[https://drive.google.com/file/d/1rbUffAgCrT_JqwrDk4ofR-i7Y4ihu5Fa/view?usp=sharing](https://drive.google.com/drive/folders/116e3FzquJ4sc4MVOijxac3jq97YRpu7W?usp=sharing)"
 ---
 # 🦠 아플라톡신 생성 예측 및 분석 (Aflatoxin Prediction Analysis)
 
