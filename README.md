@@ -1,4 +1,3 @@
-# Aflatoxin_analysis
 DATA : "https://drive.google.com/file/d/1rbUffAgCrT_JqwrDk4ofR-i7Y4ihu5Fa/view?usp=sharing"
 ---
 # 🦠 아플라톡신 생성 예측 및 분석 (Aflatoxin Prediction Analysis)
